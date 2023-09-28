@@ -1,7 +1,6 @@
 # axolotlsay
 > 💬 a CLI for learning to distribute CLIs in rust
 
-
 ## Usage
 
 ```sh
