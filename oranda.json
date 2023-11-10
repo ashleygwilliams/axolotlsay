@@ -38,5 +38,12 @@
     "dist_dir": "./public/",
     "static_dir": "./static/",
     "path_prefix": "axolotlsay"
+  },
+  "project": {
+    "name": "axolotlsay",
+    "repository": "https://github.com/ashleygwilliams/axolotlsay",
+    "description": "💬 a CLI for learning to distribute CLIs in rust",
+    "homepage": "https://axolotlsay.vercel.app",
+    "readme_path": "./README.md"
   }
 }
