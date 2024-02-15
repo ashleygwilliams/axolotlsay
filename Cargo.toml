@@ -38,3 +38,5 @@ unix-archive = ".tar.gz"
 npm-scope = "@axodotdev"
 # Publish jobs to run in CI
 pr-run-mode = "plan"
+# Where to host releases
+hosting = ["axodotdev", "github"]
